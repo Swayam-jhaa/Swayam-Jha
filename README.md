@@ -64,7 +64,7 @@ B.Tech Computer Science student | Web Development Virtuoso | AI & Machine Learni
 - Advanced DSA Problem Solving
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/swayam-jha-520ba9312)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swayam-jha-520ba9312/)
 
 ---
 
