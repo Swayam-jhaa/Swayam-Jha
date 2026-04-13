@@ -1,71 +1,113 @@
-# 🚀 Swayam Jha | Full-Stack Developer & AI Innovator
+# 👋 I'm Swayam Jha
+### 🛡️ Aspiring Security Researcher | Web Penetration Testing | B.Tech CSE
 
-## 🌐 Professional Summary
-B.Tech Computer Science student | Web Development Virtuoso | AI & Machine Learning Enthusiast | Hackathon Participant
+[![](https://img.shields.io/badge/TryHackMe-Level_8-red?style=flat-square&logo=tryhackme)](YOUR_LINK)
+[![](https://img.shields.io/badge/PortSwigger-Certified-orange?style=flat-square&logo=portswigger)](YOUR_LINK)
+[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/swayam-jha-520ba9312/)
 
-### 💻 Comprehensive Tech Stack
+---
 
-#### Programming Languages
+### 🔍 Profile
+I am a technical student and creative entrepreneur with a passion for offensive security. Whether I'm building custom web solutions or hunting for path traversal vulnerabilities in labs, I focus on the intersection of robust design and airtight security.
+
+---
+
+## 💻 Comprehensive Tech Stack
+
+### 🧑‍💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#### Frontend Technologies
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-#### Backend Technologies
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### 🔐 Web Application Security
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge)
+![SQL Injection](https://img.shields.io/badge/SQL_Injection-FF4D4D?style=for-the-badge)
+![Cross Site Scripting](https://img.shields.io/badge/XSS-FF6F00?style=for-the-badge)
+![CSRF](https://img.shields.io/badge/CSRF-8A2BE2?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Auth_Bypass-DC143C?style=for-the-badge)
+![Access Control](https://img.shields.io/badge/Broken_Access_Control-1E90FF?style=for-the-badge)
+![File Upload Vuln](https://img.shields.io/badge/File_Upload-FF1493?style=for-the-badge)
+![SSRF](https://img.shields.io/badge/SSRF-2E8B57?style=for-the-badge)
+![Command Injection](https://img.shields.io/badge/Command_Injection-696969?style=for-the-badge)
 
-#### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+---
 
-#### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Generative_AI](https://img.shields.io/badge/Generative_AI-6E36DB?style=for-the-badge&logo=openai&logoColor=white)
+### 🛠️ Security Tools
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Burp Intruder](https://img.shields.io/badge/Burp_Intruder-FF6633?style=for-the-badge)
+![Burp Repeater](https://img.shields.io/badge/Burp_Repeater-FF6633?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-222222?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-FFB300?style=for-the-badge)
+![Dirsearch](https://img.shields.io/badge/Dirsearch-4CAF50?style=for-the-badge)
+![FFUF](https://img.shields.io/badge/FFUF-000000?style=for-the-badge)
+![Amass](https://img.shields.io/badge/Amass-007ACC?style=for-the-badge)
+![Subfinder](https://img.shields.io/badge/Subfinder-1E90FF?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge)
 
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
 
-### 🧩 Data Structures & Algorithms
-#### Competitive Programming Platforms
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
-![Coding%20Ninjas](https://img.shields.io/badge/Coding_Ninjas-F79423?style=for-the-badge&logoColor=white)
+### 🌐 Networking & Protocols
+![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge)
+![HTTP](https://img.shields.io/badge/HTTP-000000?style=for-the-badge)
+![HTTPS](https://img.shields.io/badge/HTTPS-228B22?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-8B0000?style=for-the-badge)
 
-#### DSA Focus
-- 💻 Proficient in C++ for Data Structures and Algorithms
-- 🧠 Strong problem-solving skills
-- 🏆 Active in competitive programming challenges
+---
 
-### 🏆 Hackathon & Project Highlights
-- 🚀 Multiple hackathon participations solving real-world problems
-- 💡 Specialized in AI-driven web applications
-- 🤖 Expertise in generative AI integration
+### 🖥️ Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge)
 
-### 🌱 Current Learning Focus
-- Advanced Web Development Techniques
-- Full-Stack Application Architecture
-- Generative AI Applications
-- Advanced DSA Problem Solving
+---
 
-### 📫 Connect With Me
+### 🧰 Web & Backend (for Security Context)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+
+---
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
+
+---
+
+## 🏆 Cybersecurity Highlights
+- 🔐 Hands-on labs from TryHackMe & PortSwigger Web Security Academy  
+- 🌐 Practiced real-world web vulnerabilities and exploitation techniques  
+- 🛠️ Experience using industry tools for reconnaissance and testing  
+- 📘 Writing structured technical writeups for labs and CTF challenges  
+
+---
+
+## 🚀 Projects (Security Focused)
+- 🔎 Python-based Port Scanner (multi-threaded, banner grabbing)  
+- 🌐 Vulnerable Web Application (SQLi, XSS, Auth flaws)  
+- 📊 Recon Automation Scripts (subdomain + directory enumeration)  
+- 📘 CTF & TryHackMe Writeups  
+
+---
+
+## 🌱 Current Learning Focus
+- Advanced Web Exploitation  
+- Bug Bounty Hunting  
+- API Security Testing  
+- Authentication & Session Attacks  
+- Automation in Security Testing  
+
+---
+
+## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swayam-jha-520ba9312/)
 
 ---
 
-⭐️ Innovating at the Intersection of Web Development and AI
+⭐ Breaking applications to understand them better
